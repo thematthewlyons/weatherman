@@ -1,7 +1,3 @@
-#weatherman 0.1
-#developed by matthew lyons
-#using darksky (https://darksky.net/poweredby/) and twilio (https://www.twilio.com/docs/) APIs
-
 import forecastio
 from geopy.geocoders import Nominatim
 from twilio.rest import Client
