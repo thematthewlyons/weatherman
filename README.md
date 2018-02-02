@@ -1,5 +1,5 @@
 # weatherman
-Basic conjunction of DarkSky and Twilio API's for SMS push weather notifications.
+Simple conjunction of DarkSky and Twilio API's for weather SMS push notifications.
 
 Updates TK:
 * Roll daily high temp into SMS notifications
