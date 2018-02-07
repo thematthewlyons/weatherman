@@ -1,0 +1,3 @@
+geopy
+darksky/forecastio (API key)
+twilio (acct & token numbers; sms-functional twilio phone number)
